@@ -1,6 +1,6 @@
-# 📌 n8n – Automatización de flujos de trabajo
+#  n8n – Automatización de flujos de trabajo
 
-## 🧠 ¿Qué es n8n?
+##  ¿Qué es n8n?
 
 **n8n** (pronunciado como "n-eight-n") es una herramienta de automatización de flujos de trabajo *open source* que permite conectar diferentes aplicaciones y servicios de forma visual y sin necesidad de escribir código complejo. Es una alternativa a herramientas como **Zapier** o **Make**, pero con más flexibilidad y capacidad de personalización.
 
@@ -8,7 +8,7 @@ Su nombre viene de "nodenodenode", haciendo referencia a los **nodos**, los bloq
 
 ---
 
-## 🧱 ¿Qué son los nodos?
+##  ¿Qué son los nodos?
 
 En **n8n**, un **nodo** es una unidad funcional que realiza una tarea específica. Cada nodo puede representar:
 
@@ -30,7 +30,7 @@ En **n8n**, un **nodo** es una unidad funcional que realiza una tarea específic
 
 ---
 
-## ⚙️ ¿Cómo funciona n8n?
+##  ¿Cómo funciona n8n?
 
 El funcionamiento básico se puede describir en 3 pasos:
 
@@ -48,7 +48,7 @@ El funcionamiento básico se puede describir en 3 pasos:
 
 ---
 
-## 🚀 Ejemplo rápido
+##  Ejemplo rápido
 
 Un flujo simple podría tener los siguientes nodos:
 
@@ -58,7 +58,7 @@ Un flujo simple podría tener los siguientes nodos:
 
 ---
 
-## 🧩 Integraciones
+##  Integraciones
 
 n8n ofrece más de **300 integraciones** listas para usar, entre ellas:
 
