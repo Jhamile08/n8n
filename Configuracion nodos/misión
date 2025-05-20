@@ -1,0 +1,21 @@
+Misión: Automatizar respuestas por WhatsApp con n8n, ChatGPT y Excel
+
+Vamos a crear un flujo en n8n que reciba mensajes de WhatsApp, los procese con ChatGPT y guarde datos en una base de datos tipo Excel.
+ ¿Cómo va a funcionar?
+
+    Nodo de WhatsApp
+    Escucha los mensajes que llegan por WhatsApp.
+
+    Detección de mensaje
+    Si el mensaje incluye la palabra "hola", se activa una respuesta automática.
+
+    ChatGPT responde
+    ChatGPT le responde al usuario con un saludo y estas opciones:
+
+        1️⃣ Agregar su nombre a la base de datos.
+
+        2️⃣ Agregar su apellido a la base de datos.
+
+    Guardar en Excel
+    Si el mensaje del usuario contiene la palabra "nombre", se guarda su nombre.
+    Si contiene la palabra "apellido", se guarda su apellido.
