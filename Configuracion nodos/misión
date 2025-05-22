@@ -18,6 +18,6 @@ Vamos a crear un flujo en n8n que reciba mensajes de WhatsApp, los procese con C
 
     Guardar en Excel
     Si el mensaje del usuario contiene la palabra "registrarse", se guarda su nombre y apellido en un excel
-    Si el mensaje del usuario contiene la palabra "consultar", se buscara en el drive un archivo que diga precios
-    Si el mensaje del usuario contiene la palabra "disponibilidad", se buscara en el drive un archivo que diga disponibilidad
+    Si el mensaje del usuario contiene la palabra "consultar", se buscara en el drive en la carpeta consultas un archivo que diga precios
+    Si el mensaje del usuario contiene la palabra "disponibilidad", se buscara en el drive en la carpeta agenda un archivo que  diga disponibilidadMayo
     
